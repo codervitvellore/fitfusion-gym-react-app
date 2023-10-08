@@ -1,4 +1,4 @@
-
+##FITFUSION-GYM
 This is a modern React 18 Fitness Exercises App with the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more
 
 ## Features
@@ -20,5 +20,5 @@ This is a modern React 18 Fitness Exercises App with the functionality to choose
 ## Deployment
 
 This site is deployed here :
-[Fitness App](https://react-myfitness-app.netlify.app/)
+[Fitness App](https://fitfusion-gym.netlify.app/)
 
